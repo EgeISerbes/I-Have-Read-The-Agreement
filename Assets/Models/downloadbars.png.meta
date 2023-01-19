@@ -1,0 +1,2473 @@
+fileFormatVersion: 2
+guid: 409cebaaeb2968546be758b56ab8c029
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3766620828943516319
+    second: downloadbars_0
+  - first:
+      213: -4636920567516943796
+    second: downloadbars_1
+  - first:
+      213: -6457367738004162560
+    second: downloadbars_2
+  - first:
+      213: 5309141419980881377
+    second: downloadbars_3
+  - first:
+      213: 5823226015902956046
+    second: downloadbars_4
+  - first:
+      213: -4458212943511803569
+    second: downloadbars_5
+  - first:
+      213: 5199519882317335089
+    second: downloadbars_6
+  - first:
+      213: -4912678084557852744
+    second: downloadbars_7
+  - first:
+      213: 8783390214177993798
+    second: downloadbars_8
+  - first:
+      213: -5132764485776561242
+    second: downloadbars_9
+  - first:
+      213: 6548265045258132907
+    second: downloadbars_10
+  - first:
+      213: -804407997969009686
+    second: downloadbars_11
+  - first:
+      213: -2088317236416630851
+    second: downloadbars_12
+  - first:
+      213: -1433112827914889184
+    second: downloadbars_13
+  - first:
+      213: 9216748872164472787
+    second: downloadbars_14
+  - first:
+      213: -7013507203378733390
+    second: downloadbars_15
+  - first:
+      213: -8233856040962502845
+    second: downloadbars_16
+  - first:
+      213: 3518137997583456084
+    second: downloadbars_17
+  - first:
+      213: -7536243635181907588
+    second: downloadbars_18
+  - first:
+      213: -6485151986656896905
+    second: downloadbars_19
+  - first:
+      213: -7234939046733909722
+    second: downloadbars_20
+  - first:
+      213: 2093290344203511684
+    second: downloadbars_21
+  - first:
+      213: -7286180370099981800
+    second: downloadbars_22
+  - first:
+      213: -2879858992236395761
+    second: downloadbars_23
+  - first:
+      213: 3628732733325065542
+    second: downloadbars_24
+  - first:
+      213: -4568851901705202336
+    second: downloadbars_25
+  - first:
+      213: 3978644503996864454
+    second: downloadbars_26
+  - first:
+      213: -6216853381291011420
+    second: downloadbars_27
+  - first:
+      213: 5967226582719007903
+    second: downloadbars_28
+  - first:
+      213: -5154477779464632894
+    second: downloadbars_29
+  - first:
+      213: 3171357559021166478
+    second: downloadbars_30
+  - first:
+      213: 8692633532103957256
+    second: downloadbars_31
+  - first:
+      213: -2815633063284387187
+    second: downloadbars_32
+  - first:
+      213: -7254494566864579693
+    second: downloadbars_33
+  - first:
+      213: -1462418035018437534
+    second: downloadbars_34
+  - first:
+      213: -6901548333371365425
+    second: downloadbars_35
+  - first:
+      213: 3378586297750308405
+    second: downloadbars_36
+  - first:
+      213: 3313022484866796464
+    second: downloadbars_37
+  - first:
+      213: -3846125806526087971
+    second: downloadbars_38
+  - first:
+      213: -7202378737624171352
+    second: downloadbars_39
+  - first:
+      213: 6530503965151667316
+    second: downloadbars_40
+  - first:
+      213: 4387050998074146386
+    second: downloadbars_41
+  - first:
+      213: 6964982161834957735
+    second: downloadbars_42
+  - first:
+      213: -1869959834353129678
+    second: downloadbars_43
+  - first:
+      213: 6606240052421340803
+    second: downloadbars_44
+  - first:
+      213: 5192267538615796938
+    second: downloadbars_45
+  - first:
+      213: 6085042125386263659
+    second: downloadbars_46
+  - first:
+      213: 3053463851834499851
+    second: downloadbars_47
+  - first:
+      213: -7625174040841091294
+    second: downloadbars_48
+  - first:
+      213: 8197493471089598415
+    second: downloadbars_49
+  - first:
+      213: -5638456644026974522
+    second: downloadbars_50
+  - first:
+      213: -7459464155424741279
+    second: downloadbars_51
+  - first:
+      213: -8541710112580113367
+    second: downloadbars_52
+  - first:
+      213: 8592320587955688826
+    second: downloadbars_53
+  - first:
+      213: 7683476282964007306
+    second: downloadbars_54
+  - first:
+      213: -2310179716709500509
+    second: downloadbars_55
+  - first:
+      213: 78257491130104424
+    second: downloadbars_56
+  - first:
+      213: -6872245121997444006
+    second: downloadbars_57
+  - first:
+      213: 3333161812318966472
+    second: downloadbars_58
+  - first:
+      213: 4378443302584361824
+    second: downloadbars_59
+  - first:
+      213: 4916721753626943022
+    second: downloadbars_60
+  - first:
+      213: -6876706926383466821
+    second: downloadbars_61
+  - first:
+      213: -4173397345507484785
+    second: downloadbars_62
+  - first:
+      213: 4360346935822999417
+    second: downloadbars_63
+  - first:
+      213: 4375551828521111676
+    second: downloadbars_64
+  - first:
+      213: 2633028631476054126
+    second: downloadbars_65
+  - first:
+      213: -3374150113984471378
+    second: downloadbars_66
+  - first:
+      213: 6002641385293329450
+    second: downloadbars_67
+  - first:
+      213: 5291186135458913322
+    second: downloadbars_68
+  - first:
+      213: -5037265006351551768
+    second: downloadbars_69
+  - first:
+      213: 9094943291535356265
+    second: downloadbars_70
+  - first:
+      213: -1347681886177679664
+    second: downloadbars_71
+  - first:
+      213: -3121644938631825775
+    second: downloadbars_72
+  - first:
+      213: 4921588955751221293
+    second: downloadbars_73
+  - first:
+      213: 4244194847379053582
+    second: downloadbars_74
+  - first:
+      213: 4737592267186019952
+    second: downloadbars_75
+  - first:
+      213: 8149376159610502875
+    second: downloadbars_76
+  - first:
+      213: -5737360528845244177
+    second: downloadbars_77
+  - first:
+      213: 5511125646322601164
+    second: downloadbars_78
+  - first:
+      213: 4971049516110895188
+    second: downloadbars_79
+  - first:
+      213: -8182595069321817994
+    second: downloadbars_80
+  - first:
+      213: -6377621264055765761
+    second: downloadbars_81
+  - first:
+      213: -7549320970441747941
+    second: downloadbars_82
+  - first:
+      213: 3997677333389038575
+    second: downloadbars_83
+  - first:
+      213: 307836956533932186
+    second: downloadbars_84
+  - first:
+      213: -3874567886560559509
+    second: downloadbars_85
+  - first:
+      213: 6560045667222875246
+    second: downloadbars_86
+  - first:
+      213: 7530542132556924841
+    second: downloadbars_87
+  - first:
+      213: 2983205048816757625
+    second: downloadbars_88
+  - first:
+      213: 7371878215503570991
+    second: downloadbars_89
+  - first:
+      213: -504833010470062485
+    second: downloadbars_90
+  - first:
+      213: 8927337999999276976
+    second: downloadbars_91
+  - first:
+      213: -986277187365599547
+    second: downloadbars_92
+  - first:
+      213: -4834255495362581170
+    second: downloadbars_93
+  - first:
+      213: -757694869222636641
+    second: downloadbars_94
+  - first:
+      213: 4404773180765510032
+    second: downloadbars_95
+  - first:
+      213: -6586305580922900010
+    second: downloadbars_96
+  - first:
+      213: 805896256420640573
+    second: downloadbars_97
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: downloadbars_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dfb3fff464abbc0800000000000000
+      internalID: -3766620828943516319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a2371bf4956afb0800000000000000
+      internalID: -4636920567516943796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 125
+        width: 253
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008b1304142d266a0800000000000000
+      internalID: -6457367738004162560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edf5401efbdda940800000000000000
+      internalID: 5309141419980881377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a75bc653140d050800000000000000
+      internalID: 5823226015902956046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f492ee0d2fe3122c0800000000000000
+      internalID: -4458212943511803569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a0b14e8c7682840800000000000000
+      internalID: 5199519882317335089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf25128f49a2dbb0800000000000000
+      internalID: -4912678084557852744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b8b70dded4e970800000000000000
+      internalID: 8783390214177993798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab2c8d05e1c4c8b0800000000000000
+      internalID: -5132764485776561242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badd7bd4d5c10ea50800000000000000
+      internalID: 6548265045258132907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f292103b26d4f0800000000000000
+      internalID: -804407997969009686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfaf01b98ec403e0800000000000000
+      internalID: -2088317236416630851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d319d97f8c1ce0800000000000000
+      internalID: -1433112827914889184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7785d444878ef70800000000000000
+      internalID: 9216748872164472787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be97f09b540bae90800000000000000
+      internalID: -7013507203378733390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fc9ba3e877bbd80800000000000000
+      internalID: -8233856040962502845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45714c07edfe2d030800000000000000
+      internalID: 3518137997583456084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c711f20b752e96790800000000000000
+      internalID: -7536243635181907588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77895e0c0ac1006a0800000000000000
+      internalID: -6485151986656896905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62172d3f445589b90800000000000000
+      internalID: -7234939046733909722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48761023a7cdc0d10800000000000000
+      internalID: 2093290344203511684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81234c6ae8942ea90800000000000000
+      internalID: -7286180370099981800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 125
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f030984318fa808d0800000000000000
+      internalID: -2879858992236395761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d3ca2f139db5230800000000000000
+      internalID: 3628732733325065542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0655e77f66d2890c0800000000000000
+      internalID: -4568851901705202336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71b4cb81cf63730800000000000000
+      internalID: 3978644503996864454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2967bb9cc49b9a0800000000000000
+      internalID: -6216853381291011420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0c3516f8dfc250800000000000000
+      internalID: 5967226582719007903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_29
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5cd58e4cd9778b0800000000000000
+      internalID: -5154477779464632894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd439b5ece20c20800000000000000
+      internalID: 3171357559021166478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b94b3542072a870800000000000000
+      internalID: 8692633532103957256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_32
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 125
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d61595acdce8d0800000000000000
+      internalID: -2815633063284387187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393190d90abd25b90800000000000000
+      internalID: -7254494566864579693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_34
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ce99d9b8274bbe0800000000000000
+      internalID: -1462418035018437534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7e5355b56c830a0800000000000000
+      internalID: -6901548333371365425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536c868565623ee20800000000000000
+      internalID: 3378586297750308405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb0e5795683afd20800000000000000
+      internalID: 3313022484866796464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcbc84e4f0df9ac0800000000000000
+      internalID: -3846125806526087971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acb51ea2b20c0c90800000000000000
+      internalID: -7202378737624171352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474252791c201aa50800000000000000
+      internalID: 6530503965151667316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7bbf93afe1ec30800000000000000
+      internalID: 4387050998074146386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abda17cf5698a060800000000000000
+      internalID: 6964982161834957735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237222920719c06e0800000000000000
+      internalID: -1869959834353129678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e288983541eab50800000000000000
+      internalID: 6606240052421340803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac48cf901d3ae0840800000000000000
+      internalID: 5192267538615796938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_46
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cafe6b299627450800000000000000
+      internalID: 6085042125386263659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_47
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03671ff135106a20800000000000000
+      internalID: 3053463851834499851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22703291c90fd2690800000000000000
+      internalID: -7625174040841091294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf11e831e853c170800000000000000
+      internalID: 8197493471089598415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceb45b5e8d20c1b0800000000000000
+      internalID: -5638456644026974522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16826216fd8aa7890800000000000000
+      internalID: -7459464155424741279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cec4598efb57980800000000000000
+      internalID: -8541710112580113367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75df59fc0e0e3770800000000000000
+      internalID: 8592320587955688826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89553678f031aa60800000000000000
+      internalID: 7683476282964007306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9b73a99c790ffd0800000000000000
+      internalID: -2310179716709500509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ab2d706c6061100800000000000000
+      internalID: 78257491130104424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c6ee5e871e0a0a0800000000000000
+      internalID: -6872245121997444006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_58
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c25b2a2205c14e20800000000000000
+      internalID: 3333161812318966472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_59
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063aab75cfa53cc30800000000000000
+      internalID: 4378443302584361824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_60
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e9e509264bb3440800000000000000
+      internalID: 4916721753626943022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_61
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6f17c1c770190a0800000000000000
+      internalID: -6876706926383466821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd772d93d1516c0800000000000000
+      internalID: -4173397345507484785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_63
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f513f9f60138c30800000000000000
+      internalID: 4360346935822999417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 67
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70df43943519bc30800000000000000
+      internalID: 4375551828521111676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68209607956a8420800000000000000
+      internalID: 2633028631476054126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 3
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9c1d295c9c21d0800000000000000
+      internalID: -3374150113984471378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_67
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24b77c598aad4350800000000000000
+      internalID: 6002641385293329450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c108c91c11e6940800000000000000
+      internalID: 5291186135458913322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2f8e05a2a081ab0800000000000000
+      internalID: -5037265006351551768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96179409cbab73e70800000000000000
+      internalID: 9094943291535356265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_71
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6a62007721c4de0800000000000000
+      internalID: -1347681886177679664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19634fda770bda4d0800000000000000
+      internalID: -3121644938631825775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28890e541ffc4440800000000000000
+      internalID: 4921588955751221293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c529b1ab866ea30800000000000000
+      internalID: 4244194847379053582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e9240f01f4fb140800000000000000
+      internalID: 4737592267186019952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_76
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdefe9e9076681170800000000000000
+      internalID: 8149376159610502875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_77
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8f4d13ffcc060b0800000000000000
+      internalID: -5737360528845244177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_78
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc8a9d73937b7c40800000000000000
+      internalID: 5511125646322601164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_79
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458daa87237bcf440800000000000000
+      internalID: 4971049516110895188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_80
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d5304325917e80800000000000000
+      internalID: -8182595069321817994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_81
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff47afb10432e77a0800000000000000
+      internalID: -6377621264055765761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_82
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12996d439c6b3790800000000000000
+      internalID: -7549320970441747941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_83
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d847aa5a9a7730800000000000000
+      internalID: 3997677333389038575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9041fab418a54400800000000000000
+      internalID: 307836956533932186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_85
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6efb671905ca3ac0800000000000000
+      internalID: -3874567886560559509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_86
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ce82917c6f90b50800000000000000
+      internalID: 6560045667222875246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_87
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a70b29cb2cd18860800000000000000
+      internalID: 7530542132556924841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97befdaaf29766920800000000000000
+      internalID: 2983205048816757625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_89
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e78add2c2e4660800000000000000
+      internalID: 7371878215503570991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b667a0c3d097ef8f0800000000000000
+      internalID: -504833010470062485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_91
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b79dc7ac9644eb70800000000000000
+      internalID: 8927337999999276976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_92
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c68005af1a0052f0800000000000000
+      internalID: -986277187365599547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_93
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dee6d6d3649ecb0800000000000000
+      internalID: -4834255495362581170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_94
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9349d7e7802c75f0800000000000000
+      internalID: -757694869222636641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_95
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09912b3ded5e02d30800000000000000
+      internalID: 4404773180765510032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_96
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1faea48fdb894a0800000000000000
+      internalID: -6586305580922900010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downloadbars_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 3
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f4c9106e1f2b00800000000000000
+      internalID: 805896256420640573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
